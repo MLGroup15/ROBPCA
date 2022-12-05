@@ -19,6 +19,13 @@ Viraj Sharma (2020A7PS1011G)
 
 
 
+## Submission Files
+
+- The presentation can be found [here](https://github.com/MLGroup15/ROBPCA/blob/main/ROBPCA_MLGroup15.pdf).
+- The data can be found [here](https://github.com/MLGroup15/ROBPCA/tree/main/data).
+- The code can be found [here](https://github.com/MLGroup15/ROBPCA/tree/main/src).
+- The drive folder containing all necessary files can be found [here](https://drive.google.com/drive/folders/1Tw-O5lpdLiXRSnPVlCSGm3JpTtiv-LKm?usp=sharing).
+
 
 ## Motivation
 
