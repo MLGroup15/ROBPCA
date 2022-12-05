@@ -41,7 +41,7 @@ Outliers increase the variance of the data. The principal components may then be
 ## Problem Definition
 
 1. To develop a robust method through which we can accurately apply PCA to high dimensional data having outliers 
-2. Using this robust PCA, we get a diagnostic plot that can be used to detect and classify  outliers.
+2. Using this robust PCA, get a diagnostic plot that can be used to detect and classify  outliers.
 
 
 ## Methodology
