@@ -26,6 +26,8 @@ Viraj Sharma (2020A7PS1011G)
 - The code can be found [here](https://github.com/MLGroup15/ROBPCA/tree/main/src).
 - The drive folder containing all necessary files can be found [here](https://drive.google.com/drive/folders/1Tw-O5lpdLiXRSnPVlCSGm3JpTtiv-LKm?usp=sharing).
 
+Following is a summary of the paper,
+
 
 ## Motivation
 
@@ -62,10 +64,8 @@ The study analyzes several real datasets from chemometrics and engineering, and 
 | Dataset       | Dimensions (training examples x features) | No. of components retained | Results                                                                                                                                                                                                                                              |
 | ------------- | ----------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Car           | 111 x 11                                  | 2  |  Both CPCA and ROBPCA detected same set of outliers, but the subspace found by CPCA is attracted toward the bad leverage points.                                                                                                                      |
-| Octane        | 226 x 39                                  | 2                     | ROBPCA was able to detect 6 outliers, while CPCA detected only 1. The first principal component from CPCA is clearly attracted by the six outliers, yielding a classical eigenvalue of .13. In contrast, the first robust eigenvalue l1 is only .01. |
-| Glass Spectra | 750 x 180                                 | 3                                       |   CPCA does not find important outliers. ROBPCA clearly distinguishes 2 major groups in the data, a smaller group of bad leverage points, a few orthogonal outliers, and 1 isolated case                                                               |
-
-We have implemented the first 2 datasets in the colab notebooks: 
+| Octane        | 226 x 39                                  | 2                     | ROBPCA was able to detect 6 outliers, while CPCA detected only 1.  |
+| Glass Spectra | 750 x 180                                 | 3                                       |   CPCA does not find important outliers. ROBPCA clearly distinguishes 2 major groups in the data, a smaller group of bad leverage points, a few orthogonal outliers, and 1 isolated case.                                                             |
 
 ## Conclusion
 
